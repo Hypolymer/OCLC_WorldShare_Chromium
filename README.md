@@ -3,7 +3,7 @@ ILLiad Client Addon for accessing OCLC WorldShare account through a Main Form ta
 
 Author: Bill Jones III, SUNY Geneseo, jonesw@geneseo.edu
  
-OCLC_WorldShare_Chromium.lua is the Chromium version of the Main Form Addon for the OCLC_WorldShare Module by Tim Bowersox.
+OCLC_WorldShare_Chromium.lua is the Chromium version of the Main Form Addon for the OCLC_WorldShare by Tim Bowersox.
 
 
 There is a config file that is associated with this Addon that allows you to store your OCLC WorldShare login information. Alternatively, you can store your OCLC WorldShare login information may in the LocalSettings.xml file by editing the Addon settings in ILLiad under System > Manage Addons
