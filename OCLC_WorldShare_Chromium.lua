@@ -1,7 +1,8 @@
 -- About OCLC_WorldShare_Chromium.lua
 --
 -- Author: Bill Jones III, SUNY Geneseo, jonesw@geneseo.edu
--- OCLC_WorldShare_Chromium.lua is the Chromium version of the main form for the OCLC_WorldShare Module by Tim Bowersox.
+-- OCLC_WorldShare_Chromium.lua is the Chromium version of the main form for the OCLC_WorldShare by Tim Bowersox.
+-- Github Repository:  https://github.com/Hypolymer/OCLC_WorldShare_Chromium
 --
 -- There is a config file that is associated with this Addon that allows you to store your OCLC WorldShare login information
 -- Alternatively, you can store your OCLC WorldShare login information may in the LocalSettings.xml file 
